@@ -9,5 +9,8 @@ Author: Scott Gustas
 
 Current Version: 0.2
 
+##Requirements
+This plugin was written to compliment the mod_auth_openidc Apache module and the Google Apps Login WordPress plugin. `OIDCRemoteUserClaim email` must be set in the Apache configuration as this plugin will log the user in via email address.
+
 ##Installation
 Download folder as a zip file and upload it via the WordPress plugins dashboard.
