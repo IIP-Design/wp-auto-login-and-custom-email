@@ -1,12 +1,6 @@
 p#nav {
   display: none;
 }
-/*.login h1 a {
-  background-image: url('yali.png');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: left;
-}*/
 body.login div#login form#loginform p label {display:none;}
 body.login div#login form#loginform p.forgetmenot {display:none;}
 body.login div#login form#loginform p.submit {display:none;}
