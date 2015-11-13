@@ -1,0 +1,16 @@
+{
+    "name": "usstatedept/wp-auto-login-and-custom-email",
+    "type": "wordpress-plugin",
+    "description" : "A simple WordPress plugin for single sign-on based on the user's email address.",
+    "authors": [
+        {
+            "name": "Office of Design, Bureau of International Information Programs",
+            "email": "gustassj@america.gov"
+        }
+    ],
+    "minimum-stability": "stable",
+    "version": "0.1.1",
+    "require": {
+       "composer/installers": "~1.0"
+    }
+}
